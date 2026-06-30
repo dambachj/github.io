@@ -9,5 +9,5 @@ I am a former special education teacher transitioning into Data Engineering. I t
 *   **Languages (Spoken):** English, Spanish (Advanced)
 
 ## Projects
-*   **Local Extract, Transform & Load Pipeline:** in progress
+*   Local Extract, Transform & Load Pipeline:** in progress
 *   *Coming Soon: My first data pipeline project will be hosted here!*
